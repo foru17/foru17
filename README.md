@@ -2,6 +2,8 @@
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
 
+![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
+
 💻 Web Developer / 📷 Weekend Photographer / 🎬 YouTuber 
 
 #### About me
@@ -38,7 +40,6 @@
 * [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[ WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
 * [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)
 * [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)
-
 <!--
 **foru17/foru17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
