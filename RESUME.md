@@ -24,8 +24,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 #### Senior Frontend Developer(Jan 2021 - Now)
 
-
-
+* Interviewing Frontend Developers and mentor for intern.
 
 ### ZUOLUOTV - Shenzhen
 
