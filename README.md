@@ -9,7 +9,7 @@
 #### About me
 
 * 📍 Live in Shenzhen,China
-* ⌨️ Senior Front End Developer with 7 years experience,now work at at [Yuewen Group](https://ir.yuewen.com/en/index.html)
+* ⌨️ Senior Front End Developer with 7 years experience,now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
 * ✍️ Write Blog && Tech reviews at [LUOLEI.ORG](https://luolei.org)
 * 🎬 Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
 * 📺 [Bilibili](https://zuoluo.tv/bilibili) with 14K+ subscribers
@@ -40,17 +40,4 @@
 * [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[ WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
 * [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)
 * [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)
-<!--
-**foru17/foru17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
