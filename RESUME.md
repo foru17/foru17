@@ -95,3 +95,8 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 * 🏃 Run 7 Marathon(26.2 miles/42.195km) ,🏅Personal Best Record ⏱️4h28m
 * 🤿 Got PADI® Open Water Diver lience at Bohol Island,Philippines
 * 🚲 A one-month(exactly 29 days), 2200km bike trip to 🏔️Tibet.
+
+## 🤝 Contact Me
+
+* [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)
+* [![Twitter](https://static.is26.com/tmp/icons/twitter.svg)](https://zuoluo.tv/twitter)[ Twitter: luoleiorg](https://zuoluo.tv/twitter)
