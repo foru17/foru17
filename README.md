@@ -16,13 +16,13 @@
 * 📷 Love photography.My photos got 15M Views and 80K downloaded at [Unsplash](https://unsplash.com/@luolei)
 * ✈️ Travel lover 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
 * 🏃 Run 7 Marathon(26.2 miles/42.195km) ,🏅Personal Best Record ⏱️4h28m
-* 🤿 Got PADI® Open Water Diver lience at Bohol Island,Philippines
+* 🤿 Got PADI® Open Water Diver license at Bohol Island,Philippines
 * 🚲 A One month(exactly 29 days), 2200 km Bike trip to 🏔️Tibet.
 
 #### Work Experience
 
 * 2021 - Now:  Senior Frontend Developer, Yuewen Group(772.HK), Shenzhen
-* 2021 - 2020: Co-Founder of ZUOZUO Media, Shenzhen
+* 2021 - 2020: Founder of ZUOZUO Media, Shenzhen
 * 2015 - 2018: Frontend Developer, Yuewen Group, Shanghai
 * 2013 - 2015: Frontend Developer, Cheetah Mobile(NYSE: CMCM), Beijing
 
