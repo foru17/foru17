@@ -87,6 +87,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 ## 😎 Interesting Parts About Me
 
 * 📍 Live in Shenzhen,China
+* 🐾 Raising 2 cats 🐈 and 1 Shiba inu 🐕
 * ✍️ Write Blog && Tech reviews at [LUOLEI.ORG](https://luolei.org) since 2009.
 * 🎬 Make Videos on Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
 * 📺 [Bilibili](https://zuoluo.tv/bilibili) with 14K+ subscribers
