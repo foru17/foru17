@@ -22,7 +22,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 * Work with a newly established team in Shenzhen to develop services to pre-install Webnovel applications for top Chinese cell phone manufacturers (OPPO, vivo, etc.).
 * Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
-* Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, Webpack.
+* Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, webpack.
 * Work on ad SDK related development. Integration distribution application ads in web and quickapp. Practice A/B Testing to verify the Advertising effectiveness.
 * Work with UE team to develop regular daily marketing pages and special campaigns.
 * Help managers build the team, including interviewing frontend developers, training and mentoring interns.
@@ -33,7 +33,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 #### Founder(Jan 2019 - Oct 2020)
 
 * Start my own Startup Company in Fashion and Media Industry.
-* Built a bot for Telegram and Wechat to grow the community. The bot provided various functionalities, including user-verification, anti-spam, chat content analysis, daily data visualization with active members and popular topic. Some technologies used: Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
+* Built a bot for Telegram and Wechat to grow the community. The bot provided various functionalities, including user-verification, anti-spam, chat content analysis, daily data visualization with active members and popular topics. Some technologies used: Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
 * Build and operate Wechat Mini Program to sell products.
 
 ### Yuewen Group - Shanghai HQ
@@ -86,7 +86,6 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 ## 😎 Interesting Parts About Me
 
-* 📍 Live in Shenzhen, China
 * 🐾 Raising 2 cats 🐈 and 1 Shiba inu 🐕
 * ✍️ Write Blog && Tech reviews at [LUOLEI.ORG](https://luolei.org) since 2009.
 * 🎬 Make Videos on Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
