@@ -6,9 +6,7 @@
 * [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)
 * ![Github](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/luoleiorg/)
 
-![](https://komarev.com/ghpvc/?username=foru17e&color=609927&style=flat-square)
-
-[🐼 中文](https://github.com/foru17) | [🌎 ENGLISH](https://github.com/foru17)
+[🐼 中文](https://github.com/foru17) | [🌎 ENGLISH](https://github.com/foru17/foru17/blob/main/RESUME.md)
 
 ## 👨‍🚀 About Me
 

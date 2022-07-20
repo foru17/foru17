@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
 
@@ -6,9 +6,13 @@
 
 💻 Web Developer / 📷 Weekend Photographer / 🎬 YouTuber 
 
-#### About me
+## Resume
 
-* 📍 Live in Shenzhen,China
+Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to view my resume in detail.
+
+## About me
+
+* 📍 Live in Shenzhen, China
 * ⌨️ Senior Front End Developer with 7 years experience,now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
 * ✍️ Write Blog && Tech reviews at [LUOLEI.ORG](https://luolei.org)
 * 🎬 Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
@@ -16,17 +20,17 @@
 * 📷 Love photography.My photos got 15M Views and 80K downloaded at [Unsplash](https://unsplash.com/@luolei)
 * ✈️ Travel lover 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
 * 🏃 Run 7 Marathon(26.2 miles/42.195km) ,🏅Personal Best Record ⏱️4h28m
-* 🤿 Got PADI® Open Water Diver license at Bohol Island,Philippines
+* 🤿 Got PADI® Open Water Diver license at Bohol Island, Philippines
 * 🚲 A One month(exactly 29 days), 2200 km Bike trip to 🏔️Tibet.
 
-#### Work Experience
+## Work Experience
 
 * 2021 - Now:  Senior Frontend Developer, Yuewen Group(772.HK), Shenzhen
 * 2021 - 2020: Founder of ZUOZUO Media, Shenzhen
 * 2015 - 2018: Frontend Developer, Yuewen Group, Shanghai
 * 2013 - 2015: Frontend Developer, Cheetah Mobile(NYSE: CMCM), Beijing
 
-#### Find Me
+## Find Me
 
 * [![Blog](https://static.is26.com/tmp/icons/blog.svg)](https://luolei.org)[ Blog LUOLEI.ORG](https://luolei.org)
 * [![Twitter](https://static.is26.com/tmp/icons/twitter.svg)](https://zuoluo.tv/twitter)[ Twitter: luoleiorg](https://zuoluo.tv/twitter)
