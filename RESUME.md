@@ -81,5 +81,5 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 ## 📢 Public Activities 
 
 * [2017 FRONT END & EXPERIENCE CONFERENCE](https://feexp.org/shenzhen/): Invited Speaker of Tencent's public conference.
-* **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment.Made public training to other staff.
+* **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment. Made public training to other staff.
 
