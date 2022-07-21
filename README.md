@@ -45,3 +45,4 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 * [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)
 * [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)
 
+![](https://static.is26.com/share/profile-background.jpg)
