@@ -13,11 +13,11 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 ## About me
 
 * 📍 Live in Shenzhen, China
-* ⌨️ Senior Front End Developer with 7 years experience,now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
-* ✍️ Write Blog && Tech reviews at [LUOLEI.ORG](https://luolei.org)
+* ⌨️ Senior Front End Developer with 7 years experience, now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
+* ✍️ Write Blogs && Tech reviews at [LUOLEI.ORG](https://luolei.org)
 * 🎬 Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
 * 📺 [Bilibili](https://zuoluo.tv/bilibili) with 14K+ subscribers
-* 📷 Love photography.My photos got 15M Views and 80K downloaded at [Unsplash](https://unsplash.com/@luolei)
+* 📷 Love photography. My photos got 15M Views and 80K downloaded at [Unsplash](https://unsplash.com/@luolei)
 * ✈️ Travel lover 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
 * 🏃 Run 7 Marathon(26.2 miles/42.195km) ,🏅Personal Best Record ⏱️4h28m
 * 🤿 Got PADI® Open Water Diver license at Bohol Island, Philippines
