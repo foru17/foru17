@@ -1,7 +1,7 @@
 
 # Luo Lei - Front End Developer  
 
-|  Pages     | Contact |
+|  Page     | Contact |
 | ----------- | ----------- | 
 |  [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)      |  [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)    | 
 | ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/luoleiorg/) |[![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/foru17) CN [+86 18033440004](tel:+18033440004)   |
@@ -72,10 +72,14 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 #### Jinan University - Guangzhou, China(Sep 2009 - Jun 2013)
 * Studied Coding with passion and self-motivation.
 * Top 50 universities in China.
-* English Level Test CET6 qualified
+* English Level Test CET6 qualified.
 
 ## 📢 Public Activities 
 
 * [2017 FRONT END & EXPERIENCE CONFERENCE](https://feexp.org/shenzhen/): Invited Speaker of Tencent's public conference.
 * **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment. Made public training to other staff.
+
+## 😎 Interesting Parts About Me
+
+Please check my [Github @foru17](https://github.com/foru17) to know more about me.
 

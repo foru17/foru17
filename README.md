@@ -12,8 +12,8 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## About me
 
-* 📍 Live in Shenzhen, China
-* ⌨️ Senior Front End Developer with 7 years experience, now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
+* 🐾 Raising 2 cats 🐈 and 1 Shiba inu 🐕
+* ⌨️ Senior Front End Developer with 7 years of experience, now work at [Yuewen Group](https://ir.yuewen.com/en/index.html)
 * ✍️ Write Blogs && Tech reviews at [LUOLEI.ORG](https://luolei.org)
 * 🎬 Youtube [ZUOLUOTV](https://zuoluo.tv/youtube)  ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
 * 📺 [Bilibili](https://zuoluo.tv/bilibili) with 14K+ subscribers
@@ -25,10 +25,10 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## Work Experience
 
-* 2021 - Now:  Senior Frontend Developer, Yuewen Group(772.HK), Shenzhen
-* 2021 - 2020: Founder of ZUOZUO Media, Shenzhen
-* 2015 - 2018: Frontend Developer, Yuewen Group, Shanghai
-* 2013 - 2015: Frontend Developer, Cheetah Mobile(NYSE: CMCM), Beijing
+* Jan 2021 - Now:  Senior Frontend Developer, Yuewen Group(772.HK), Shenzhen
+* Jan 2019 - Oct 2020: Founder of ZUOZUO Media, Shenzhen
+* May 2015 - Sep 2015: Frontend Developer, Yuewen Group, Shanghai
+* Jul 2013 - May 2015: Intern && Junior Frontend Developer, Cheetah Mobile(NYSE: CMCM), Beijing
 
 ## Find Me
 
