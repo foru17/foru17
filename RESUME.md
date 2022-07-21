@@ -1,16 +1,14 @@
 
 # Luo Lei - Front End Developer  
 
-## 🤝 Contact
-
-* [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)
-* ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/luoleiorg/)
-* [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)
-* [![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/foru17) CN [+86 18033440004](tel:+18033440004)  
+|  Pages     | Contact |
+| ----------- | ----------- | 
+|  [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)      |  [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)    | 
+| ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/luoleiorg/) |[![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/foru17) CN [+86 18033440004](tel:+18033440004)   |
 
 ## 👨‍🚀 About Me
 
-Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Developer with 7 years of experience in booming IT industry in China. I am proficient in JavaScript, Node.js, Vue.js, HTML, CSS and related tech stacks. I have worked for both startups and big tech companies with millions of users.
+Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Developer with 7 years of experience in the booming IT industry in China. I am proficient in JavaScript, Node.js, Vue.js, HTML, CSS and related tech stacks. I have worked for both startups and big tech companies with millions of users.
 
 ## 💻 Experience
 
@@ -20,7 +18,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 * Work with a newly established team in Shenzhen to develop services to pre-install Webnovel applications for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
 * Help managers build the team, including interviewing frontend developers, training and mentoring interns. Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
-* Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, webpack. Enhance hybrid website performance time from 1.71s to 1.36s.
+* Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, webpack. Enhance hybrid website performance by 30%.
 * Work on Ad SDK development. Integration distribution application ads in web and quickapp. Practice A/B Testing to verify the Advertising effectiveness.
 * Work with UE/UI team to develop regular daily marketing pages and special campaigns.
 * Build a tool to generate offline HTML files from unscheduled update docs which helps reduce developers' time on documents calibration dramatically.
