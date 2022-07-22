@@ -17,8 +17,8 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 #### Senior Frontend Developer(Jan 2021 - Now)
 
-* Work with a newly established team in Shenzhen to develop services to pre-install Webnovel applications for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
-* Help managers build the team, including interviewing frontend developers, training and mentoring interns. Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
+* Work with a newly established team in Shenzhen to develop services to pre-install webnovel applications for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
+* Help managers build the team, including interviewing front-end developers, training and mentoring interns. Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
 * Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, webpack. Enhance hybrid website performance by 30%.
 * Work on Ad SDK development. Integration distribution application ads in web and quickapp. Practice A/B Testing to verify the Advertising effectiveness.
 * Work with UE/UI team to develop regular daily marketing pages and special campaigns.
@@ -36,7 +36,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
  *Former **Tencent Literature** and **Shanda Cloudary** ([0772.HK](https://finance.yahoo.com/quote/0772.HK))*
 
 #### Senior Frontend Developer(Oct 2015 - Oct 2018)
-* Early Core Member of Yuewen Front End Team [YUX-FE](https://github.com/yued-fe). Significantly improved frontend team productivity by designing an automated workflow tool [Yworkflow](https://github.com/yued-fe/Yworkflow) with Shell, Gulp.js, Git, Jenkins. 
+* Early Core Member of Yuewen Front-End Team [YUX-FE](https://github.com/yued-fe). Significantly improved front-end team productivity by designing an automated workflow tool [Yworkflow](https://github.com/yued-fe/Yworkflow) with Shell, Gulp.js, Git, Jenkins. 
 * Designed and built the enterprise framework [YUENODE](https://github.com/yued-fe/yuenode) with Node.js && Koa. This framework and its extended version is currently in use of Yuewen's 7 major websites. I also took on the role of OP Engineer. Deploying and managing Node.js backend servers serving millions of users on Tencent's internal [TAF(Total Application Framework)](https://github.com/gamegrd/taf) Platform.
 * Built the infrastructure API [Yfont](https://webfont.yuewen.com/) with Node.js, Redis, cos. A flexible webfont solution that is designed for Chinese Fonts on Web by heavily reducing the font filesize.
 * Built the company's OA system auth gateway server which back-end Koa.js, jwt.
@@ -60,7 +60,7 @@ Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Develope
 
 ## ⚒️ Side Projects && Skills
 
-* [Ghost](https://ghost.org/) and [Wordpress](https://wordpress.com/) developer. Design and made [themes](https://github.com/foru17/Yasuko) with hundreds of Stars.
+* [Ghost](https://ghost.org/) and [Wordpress](https://wordpress.com/) developer. Design and made [themes](https://github.com/foru17/Yasuko) with hundreds of stars.
 * Knowledge of Cloud Computing Services, Linux(Mostly Ubuntu, Centos), nginx, shell scrips, PHP, DNS and load balance. Ability to build server from scratch to runtime. Experiences in improving web performance by front-end and back-end optimization.
 * Have a good grasp of user experience and visual design. Master Figma, Sketch and Photoshop.
 * Proficiency in OS X, good knowledge management and task management habits. Using Alfred, Sublime Text, Evernote, Notion, etc. to improve productivity.

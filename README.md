@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
-
-![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
 
 💻 Web Developer / 📷 Weekend Photographer / 🎬 YouTuber 
 
