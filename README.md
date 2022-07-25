@@ -2,7 +2,7 @@
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
 
-💻 Web Developer / 📷 Weekend Photographer / 🎬 YouTuber 
+💻 Front-End Developer / 📷 Weekend Photographer / 🎬 YouTuber 
 
 ## Resume
 
