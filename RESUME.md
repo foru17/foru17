@@ -1,85 +1,59 @@
-
-# Luo Lei - Front End Developer  
+# Luo Lei - Senior Front End Developer  
 
 |  Page     | Contact |
-| ----------- | ----------- | 
-|  [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[ Github: foru17](https://github.com/foru17)      |  [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[ Mail: i@luolei.org](mailto:i@luolei.org)    | 
-| ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/luoleiorg/) |[![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/foru17) CN [+86 18033440004](tel:+18033440004)   |
+| ----------- | ----------- |
+|  [Github](https://github.com/foru17)      |  [Mail: i@luolei.org](mailto:i@luolei.org)    |
+| [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | CN +86 18033440004   |
 
-## 👨‍🚀 About Me
+## Objective
 
-Hi, I am Luo Lei (Chinese:羅磊; pinyin:luó lěi), a Senior Front End Developer with 7 years of experience in the booming IT industry in China. I am proficient in JavaScript, Node.js, Vue.js, HTML, CSS and related tech stacks. I have worked for both startups and big tech companies with millions of users.
+Experienced Senior Front End Developer seeking a challenging position to leverage seven years of experience in JavaScript, Node.js, Vue.js, HTML, CSS and related tech stacks. Looking to utilize my experience with startups and large tech companies to enhance user experience and boost web performance.
 
-## 💻 Experience
+## Key Skills
+
+- JavaScript, Node.js, Vue.js, HTML, CSS
+- Experience with ChatGPT and  AI related stack
+- Hybrid App and quickapp development
+- Ad SDK development and A/B Testing
+- Experience with UE/UI team to develop marketing pages
+- Experience with Linux, nginx, shell scripts, PHP
+- Proficiency in Figma, Sketch and Photoshop
+- Excellent knowledge management and task management habits
+
+## Experience
 
 ### Yuewen Group - Shenzhen
-*Yuewen's New Office focusing on IP Eco-chain cooperation.*
 
-#### Senior Frontend Developer(Jan 2021 - Now)
+*Senior Frontend Developer (Jan 2021 - Now)*
 
-* Work with a newly established team in Shenzhen to develop services to pre-install webnovel applications for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
-* Help managers build the team, including interviewing front-end developers, training and mentoring interns. Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
-* Responsible for Hybrid App websites and quickapp(a new type of installation-free app) development. Work closely with external mobile brand partners for hybrid app development iterations. Mainly using Vue.js, webpack. Enhance hybrid website performance by 30%.
-* Work on Ad SDK development. Integration distribution application ads in web and quickapp. Practice A/B Testing to verify the Advertising effectiveness.
-* Work with UE/UI team to develop regular daily marketing pages and special campaigns.
-* Build a tool to generate offline HTML files from unscheduled update docs which helps reduce developers' time on documents calibration dramatically.
+- Worked with a team in Shenzhen to develop services for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
+- Assisted in team building and project management.
+- Developed Hybrid App websites and quickapps, enhancing hybrid website performance by 30%.
+- Integrated and tested advertising in web and quickapp.
+- Worked with UE/UI team to develop regular daily marketing pages and special campaigns.
+- Created a tool to generate offline HTML files from unscheduled update docs, reducing developers' time on documents calibration significantly.
 
 ### ZUOLUOTV™ - Shenzhen
-*Startup Company in the online fashion and media Industry.*
 
-#### Founder(Jan 2019 - Oct 2020)
+*Founder (Jan 2019 - Oct 2020)*
 
-* Built a bot for Telegram and Wechat to grow the community. The bot provided various functionalities, including user-verification, anti-spam, chat content analysis, daily data visualization with active members and popular topics. Some technologies used: Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
-* Built and operated Wechat Mini Program to sell products.
+- Developed a bot for Telegram and Wechat to grow the community using Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
+- Created and operated a Wechat Mini Program for selling products.
 
-### Yuewen Group - Shanghai HQ
- *Former **Tencent Literature** and **Shanda Cloudary** ([0772.HK](https://finance.yahoo.com/quote/0772.HK))*
+## Education
 
-#### Senior Frontend Developer(Oct 2015 - Oct 2018)
-* Early Core Member of Yuewen Front-End Team [YUX-FE](https://github.com/yued-fe). Significantly improved front-end team productivity by designing an automated workflow tool [Yworkflow](https://github.com/yued-fe/Yworkflow) with Shell, Gulp.js, Git, Jenkins. 
-* Designed and built the enterprise framework [YUENODE](https://github.com/yued-fe/yuenode) with Node.js && Koa. This framework and its extended version is currently in use of Yuewen's 7 major websites. I also took on the role of OP Engineer. Deploying and managing Node.js backend servers serving millions of users on Tencent's internal [TAF(Total Application Framework)](https://github.com/gamegrd/taf) Platform.
-* Built the infrastructure API [Yfont](https://webfont.yuewen.com/) with Node.js, Redis, cos. A flexible webfont solution that is designed for Chinese Fonts on Web by heavily reducing the font filesize.
-* Built the company's OA system auth gateway server which back-end Koa.js, jwt.
-* As a core project member, participated in the refactoring of [qidian.com](https://www.qidian.com/), the most popular webnovel site in China and the company's core business. Proficient in jQuery, Zepto, Sass.
-* Participated in the development of an early version of [webnovel.com](https://www.webnovel.com/). Worked with Google officials to apply [AMP](https://amp.dev/) to the site. Enhanced SEO rankings and faster browsing performance.
+### Bachelor / School of Public Administration
 
-### Xiaoyi Tech - Shanghai
-*Xiaomi Millet Eco-chain enterprise focusing on smart home products*
+*Jinan University - Guangzhou, China (Sep 2009 - Jun 2013)*
 
-#### Frontend Developer(May 2015 - Sep 2015)
-* Worked on Xiaoyi's product website and user community forum.
-* Worked with the iOS development team to build an automated application testing and distribution system that supports uploading iOS ipa files and distributing them for testing and release.
+- Self-motivated study of coding.
+- English Level Test CET6 qualified.
 
-### Cheetah Mobile - Beijing
-*Made apps with billion users, top android developer in Mobile Internet ([NYSE: CMCM](https://finance.yahoo.com/quote/CMCM))*
-#### Junior Developer(Jul 2013 - May 2015)
-#### Frontend Developer Intern (Nov 2013 - Jun 2014)
+## Public Activities
 
-* Worked in Cheetah Mobile's [CMUX](https://cmux.cmcm.com/). Built websites for CM Browser, Clean Master and digital marketing.
-* Worked in the Cross-border eCommerce startup project [Snapbuy](https://apkpure.com/snapbuy-app/com.snapbuy.mobileappmarket) inside company. Responsible for developing the Hybrid websites in the app. 
+- [2017 FRONT END & EXPERIENCE CONFERENCE](https://feexp.org/shenzhen/): Invited Speaker of Tencent's public conference. Discussed front-end development best practices and trends.
+- **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment. Delivered public training to other staff on front-end development.
 
-## ⚒️ Side Projects && Skills
+## Interesting Parts About Me
 
-* [Ghost](https://ghost.org/) and [Wordpress](https://wordpress.com/) developer. Design and made [themes](https://github.com/foru17/Yasuko) with hundreds of stars.
-* Knowledge of Cloud Computing Services, Linux(Mostly Ubuntu, Centos), nginx, shell scrips, PHP, DNS and load balance. Ability to build server from scratch to runtime. Experiences in improving web performance by front-end and back-end optimization.
-* Have a good grasp of user experience and visual design. Master Figma, Sketch and Photoshop.
-* Proficiency in OS X, good knowledge management and task management habits. Using Alfred, Sublime Text, Evernote, Notion, etc. to improve productivity.
-
-## 🏫 Education
-
-### Bachelor / School of Public Administration 
-
-#### Jinan University - Guangzhou, China(Sep 2009 - Jun 2013)
-* Studied Coding with passion and self-motivation.
-* Top 50 universities in China.
-* English Level Test CET6 qualified.
-
-## 📢 Public Activities 
-
-* [2017 FRONT END & EXPERIENCE CONFERENCE](https://feexp.org/shenzhen/): Invited Speaker of Tencent's public conference.
-* **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment. Made public training to other staff.
-
-## 😎 Interesting Parts About Me
-
-Please check my [Github @foru17](https://github.com/foru17) to know more about me.
-
+Please check my [Github @foru17](https://github.com/foru17) to view my open source contributions and personal projects.
