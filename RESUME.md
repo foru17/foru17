@@ -75,7 +75,7 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 ## Side Projects
 
 - **AI and Chatbot Development**: Developed a chatbot using OpenAI's GPT model for customer service in a retail scenario. The chatbot was capable of handling customer inquiries, providing product recommendations, and even processing transactions. This project involved working with Node.js, Nest.js, MongoDB, and various AI APIs.
--
+
 - **Ghost and Wordpress Development**: Created custom themes for Ghost and Wordpress platforms. Utilized advanced JavaScript and CSS techniques to create interactive, responsive, and aesthetically pleasing designs.
 
 - **Server Setup and Optimization**: Comprehensive understanding of cloud computing services, with the ability to setup servers from scratch. Implemented DNS and load balancing to ensure optimal performance. Regularly used Linux (Ubuntu, Debian) for server management and used nginx for reverse proxy setups. Created automation scripts using shell scripting.
