@@ -1,9 +1,9 @@
-# Luo Lei - Senior Front End Developer  
+# Luo Lei - Senior Front End Developer
 
-|  Page     | Contact |
-| ----------- | ----------- |
-|  [Github](https://github.com/foru17)      |  [Mail: i@luolei.org](mailto:i@luolei.org)    |
-| [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | CN +86 18033440004   |
+| Page                                               | Contact                                   |
+| -------------------------------------------------- | ----------------------------------------- |
+| [Github](https://github.com/foru17)                | [Mail: i@luolei.org](mailto:i@luolei.org) |
+| [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | CN +86 18033440004                        |
 
 ## Objective
 
@@ -24,9 +24,8 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ### Yuewen Group - Shenzhen
 
-*Senior Frontend Developer (Jan 2021 - Now)*
+_Senior Frontend Developer (Jan 2021 - Now)_
 
-- Developed a chatbot using OpenAI's GPT-3 technology to assist with customer inquiries, reducing customer response times by 40%.
 - Worked with a team in Shenzhen to develop services for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
 - Assisted in team building and project management.
 - Developed Hybrid App websites and quickapps, enhancing hybrid website performance by 30%.
@@ -36,14 +35,14 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ### ZUOLUOTV™ - Shenzhen
 
-*Founder (Jan 2019 - Oct 2020)*
+_Founder (Jan 2019 - Oct 2020)_
 
 - Developed a bot for Telegram and Wechat to grow the community using Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
 - Created and operated a Wechat Mini Program for selling products.
 
 ### Yuewen Group - Shanghai HQ
 
-*Senior Frontend Developer (Oct 2015 - Oct 2018)*
+_Senior Frontend Developer (Oct 2015 - Oct 2018)_
 
 - Designed and built enterprise framework with Node.js and Koa.
 - Built infrastructure API for Chinese Fonts on Web.
@@ -51,14 +50,14 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ### Xiaoyi Tech - Shanghai
 
-*Frontend Developer (May 2015 - Sep 2015)*
+_Frontend Developer (May 2015 - Sep 2015)_
 
 - Worked on product website and user community forum.
 - Built an automated application testing and distribution system.
 
 ### Cheetah Mobile - Beijing
 
-*Junior Developer (Jul 2013 - May 2015) and Frontend Developer Intern (Nov 2013 - Jun 2014)*
+_Junior Developer (Jul 2013 - May 2015) and Frontend Developer Intern (Nov 2013 - Jun 2014)_
 
 - Worked on websites for CM Browser, Clean Master and digital marketing.
 - Developed the Hybrid websites in an in-company startup project.
@@ -67,7 +66,7 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ### Bachelor / School of Public Administration
 
-*Jinan University - Guangzhou, China (Sep 2009 - Jun 2013)*
+_Jinan University - Guangzhou, China (Sep 2009 - Jun 2013)_
 
 - Self-motivated study of coding.
 - English Level Test CET6 qualified.
