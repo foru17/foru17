@@ -11,7 +11,7 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 ## About Me
 
 - 🐾 Pet parent to 2 cats 🐈 and 1 Shiba Inu 🐕
-- ⌨️ Senior Front-End Developer with 7 years of experience, currently employed at [Yuewen Group](https://ir.yuewen.com/en/index.html)
+- ⌨️ Senior Front-End Developer
 - ✍️ Blogging and tech reviews at [LUOLEI.ORG](https://luolei.org)
 - 🎬 Creator of [ZUOLUOTV](https://zuoluo.tv/youtube) on YouTube ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
 - 📺 Bilibili channel with 14K+ subscribers
@@ -23,7 +23,8 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## Work Experience
 
-- Jan 2021 - Present: Senior Front-End Developer at Yuewen Group (772.HK), Shenzhen
+- Apr 2024 - Present: Full-Stack Developer / Open to new opportunities
+- Jan 2021 - Mar 2024: Senior Front-End Developer at Yuewen Group (772.HK), Shenzhen
 - Jan 2019 - Oct 2020: Founder of ZUOLUOTV, Shenzhen
 - May 2015 - Sep 2015: Front-End Developer at Yuewen Group, Shanghai
 - Jul 2013 - May 2015: Intern & Junior Front-End Developer at Cheetah Mobile (NYSE: CMCM), Beijing

@@ -11,7 +11,7 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ## Key Skills
 
-- JavaScript, Node.js, Vue.js, HTML, CSS
+- TypeScript,JavaScript, NestJS, Vue.js, React, HTML, CSS
 - Experience with AI and ChatGPT
 - Hybrid App and quickapp development
 - Ad SDK development and A/B Testing
@@ -22,9 +22,15 @@ Experienced Senior Front End Developer seeking a challenging position to leverag
 
 ## Experience
 
+### Full Stack Developer (Apr 2024 - Present)
+
+- Developed merchant service application using React, NestJS, PostgreSQL, Prisma, and GraphQL.
+- Enhanced application performance and user experience for global users.
+- Worked on integrating backend services with front-end interfaces.
+
 ### Yuewen Group - Shenzhen
 
-_Senior Frontend Developer (Jan 2021 - Now)_
+_Senior Frontend Developer (Jan 2021 - Mar 2024)_
 
 - Worked with a team in Shenzhen to develop services for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
 - Assisted in team building and project management.
