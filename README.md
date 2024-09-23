@@ -2,7 +2,7 @@
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
 
-💻 Front-End Developer / 📷 Weekend Photographer / 🎬 YouTuber
+💻 Full-Stack Developer / 📷 Weekend Photographer / 🎬 YouTuber
 
 ## Resume
 
@@ -10,16 +10,23 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 
 ## About Me
 
+- ⌨️ Senior Front-End Developer / Full-Stack Developer
 - 🐾 Pet parent to 2 cats 🐈 and 1 Shiba Inu 🐕
-- ⌨️ Senior Front-End Developer
 - ✍️ Blogging and tech reviews at [LUOLEI.ORG](https://luolei.org)
-- 🎬 Creator of [ZUOLUOTV](https://zuoluo.tv/youtube) on YouTube ![YouTube Subscribers](https://api.gate.is26.com/youtube-subscribers) ![YouTube Views](https://api.gate.is26.com/youtube-views)
-- 📺 Bilibili channel with 14K+ subscribers
+- 🎬 Content creator on Youtube and Bilibili.
 - 📷 Passionate about photography. My photos have garnered 15M views and 80K downloads on [Unsplash](https://unsplash.com/@luolei)
 - ✈️ Globetrotter with travels to multiple countries 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
 - 🏃 Completed **8** Marathons (26.2 miles/42.195km) with a personal best record ⏱️4h28m
 - 🤿 PADI® Open Water Diver licensed, certified at Bohol Island, Philippines
 - 🚲 Completed a one-month (exactly 29 days) bike trip to 🏔️Tibet, covering 2200 km.
+
+## Social
+
+| Platform                               | -                                                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Twitter](https://x.com/luoleiorg)     | ![Twitter Followers](https://badge.is26.com/twitter)                                                                      |
+| [YouTube](https://zuoluo.tv/youtube)   | ![YouTube Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
+| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili)                                                                              |
 
 ## Work Experience
 
@@ -38,7 +45,6 @@ Click **[📝 HERE](https://github.com/foru17/foru17/blob/main/RESUME.md)** to v
 - [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://zuoluo.tv/bilibili)[Bilibili 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 - [![Telegram](https://static.is26.com/tmp/icons/telegram.svg)](https://t.me/zuoluotv)[Telegram Group](https://t.me/zuoluotv)
 - [![Telegram](https://static.is26.com/tmp/icons/telegram2.svg)](https://t.me/zuoluotvofficial)[Telegram Channel](https://t.me/zuoluotvofficial)
-- [![weibo](https://static.is26.com/tmp/icons/weibo.svg)](https://zuoluo.tv/weibo)[Weibo: 罗罗磊磊](https://zuoluo.tv/weibo)
 - [![zhihu](https://static.is26.com/tmp/icons/zhihu.svg)](https://zuoluo.tv/zhihu)[Zhihu: 罗磊](https://zuoluo.tv/zhihu)
 - [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
 - [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[Github: foru17](https://github.com/foru17)
