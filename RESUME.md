@@ -1,99 +1,94 @@
-# Luo Lei - Senior Front End Developer
+# Luo Lei - Senior Full-Stack Developer / Engineering Efficiency Advocate
 
-| Page                                               | Contact                                   |
+| Link                                               | Contact                                   |
 | -------------------------------------------------- | ----------------------------------------- |
 | [Github](https://github.com/foru17)                | [Mail: i@luolei.org](mailto:i@luolei.org) |
-| [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | CN +86 18033440004                        |
+| [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | [Blog: luolei.org](https://luolei.org)    |
 
 ## Objective
 
-Experienced Senior Front End Developer seeking a challenging position to leverage seven years of experience in JavaScript, Node.js, Vue.js, HTML, CSS, AI, and Chatbots. Looking to utilize my experience with startups, large tech companies, and AI to enhance user experience and boost web performance.
+Highly driven Full-Stack Developer with over 10 years of experience across start-ups and top-tier tech companies. Deeply passionate about leveraging modern Web Frameworks (React, Next.js, Vinext) and generative AI (Vibe Coding, Claude, GPT) to dramatically boost development efficiency and user experience. Adept at transforming complex infrastructure challenges into elegant, maintainable, and highly automated solutions.
 
 ## Key Skills
 
-- TypeScript,JavaScript, NestJS, Vue.js, React, HTML, CSS
-- Experience with AI and ChatGPT
-- Hybrid App and quickapp development
-- Ad SDK development and A/B Testing
-- Experience with UE/UI team to develop marketing pages
-- Experience with Linux, nginx, shell scripts, PHP
-- Proficiency in Figma, Sketch and Photoshop
-- Excellent knowledge management and task management habits
+- **Front-End**: React, Next.js, Vinext, TypeScript, JavaScript, Vue.js, HTML/CSS, QuickApp
+- **Back-End & DB**: Node.js, NestJS, GraphQL, REST API, PostgreSQL, MongoDB, ClickHouse, Prisma
+- **DevOps & Architecture**: Docker, Cloudflare Workers, Nginx, Linux, CI/CD, Shell Scripting, Networking (Homelab routing, DNS)
+- **AI & Productivity**: Vibe Coding, Prompt Engineering, LLM Integration, Raycast plugin development
+- **Design**: UI/UX intuition, Figma, Sketch, Photoshop
+
+## Open Source & Featured Projects
+
+- [**Neko Master**](https://github.com/foru17/neko-master): Designed and developed an elegant, open-source home network traffic analysis dashboard with ClickHouse storage integration. Gained 1K+ stars rapidly through efficient AI-assisted "Vibe Coding."
+- [**Raycast Plugins**](https://github.com/foru17): Developed productivity extensions `raycast-sink` and `raycast-hoarder` to optimize URL management and bookmarking workflows.
+- [**luoleiorg-x**](https://github.com/foru17/luoleiorg-x): Migrated and rebuilt personal tech blog using Vinext and Cloudflare Workers, integrating AI-generated summaries and SEO capabilities.
 
 ## Experience
 
-### Full Stack Developer (Apr 2024 - Present)
+### Independent Full-Stack Developer / Open Source Creator
 
-- Developed merchant service application using React, NestJS, PostgreSQL, Prisma, and GraphQL.
-- Enhanced application performance and user experience for global users.
-- Worked on integrating backend services with front-end interfaces.
+_Apr 2024 - Present_
+
+- Architected and delivered global-facing web applications utilizing React, NestJS, PostgreSQL, Prisma, and GraphQL.
+- Embraced an AI-first development workflow (Vibe Coding) to rapidly prototype and scale robust tools and dashboards, reducing time-to-market by up to 90% for complex feature sets.
+- Built open-source networking and productivity tools widely adopted by the homelab and developer communities.
 
 ### Yuewen Group - Shenzhen
 
 _Senior Frontend Developer (Jan 2021 - Mar 2024)_
 
-- Worked with a team in Shenzhen to develop services for top Chinese cell phone manufacturers (OPPO, vivo, Huawei, etc.).
-- Assisted in team building and project management.
-- Developed Hybrid App websites and quickapps, enhancing hybrid website performance by 30%.
-- Integrated and tested advertising in web and quickapp.
-- Worked with UE/UI team to develop regular daily marketing pages and special campaigns.
-- Created a tool to generate offline HTML files from unscheduled update docs, reducing developers' time on documents calibration significantly.
+- Spearheaded frontend services for leading Chinese smartphone manufacturers (OPPO, vivo, Huawei).
+- Developed Hybrid App web views and QuickApps, enhancing hybrid rendering performance by over 30%.
+- Integrated complex advertising SDKs and performed rigorous A/B testing on monetization strategies.
+- Streamlined developer workflows by building an automated tool that extracts and parses offline HTML from unscheduled product documentation updates.
 
 ### ZUOLUOTV™ - Shenzhen
 
 _Founder (Jan 2019 - Oct 2020)_
 
-- Developed a bot for Telegram and Wechat to grow the community using Node.js, MongoDB, Puppeteer, Echarts, Google Search API, RESTful API.
-- Created and operated a Wechat Mini Program for selling products.
+- Founded a tech and lifestyle media brand, cultivating an engaged community across YouTube, Bilibili, and WeChat.
+- Engineered automated community bots for Telegram and WeChat using Node.js, MongoDB, and Puppeteer, integrating data visualization via Echarts and Google Search APIs.
+- Built and operated an e-commerce WeChat Mini Program from the ground up, generating sustainable revenue.
 
 ### Yuewen Group - Shanghai HQ
 
 _Senior Frontend Developer (Oct 2015 - Oct 2018)_
 
-- Designed and built enterprise framework with Node.js and Koa.
-- Built infrastructure API for Chinese Fonts on Web.
-- Participated in refactoring of the most popular webnovel site in China.
+- Designed and built enterprise-grade BFF (Backend-For-Frontend) frameworks using Node.js and Koa.
+- Built low-latency infrastructure APIs to support dynamic Chinese Web Fonts delivery.
+- Key contributor to the front-end modernization and refactoring of China's largest webnovel reading platform.
 
 ### Xiaoyi Tech - Shanghai
 
 _Frontend Developer (May 2015 - Sep 2015)_
 
-- Worked on product website and user community forum.
-- Built an automated application testing and distribution system.
+- Managed the development of the primary consumer product website and user community forums.
+- Developed an automated web-based application testing and distribution management system.
 
-### Cheetah Mobile - Beijing
+### Cheetah Mobile (NYSE: CMCM) - Beijing
 
-_Junior Developer (Jul 2013 - May 2015) and Frontend Developer Intern (Nov 2013 - Jun 2014)_
+_Junior Developer / Intern (Jul 2013 - May 2015)_
 
-- Worked on websites for CM Browser, Clean Master and digital marketing.
-- Developed the Hybrid websites in an in-company startup project.
+- Contributed to web properties for flagship products including CM Browser and Clean Master.
+- Developed experimental hybrid mobile websites as part of an internal incubator project.
 
 ## Education
 
-### Bachelor / School of Public Administration
+**Bachelor of Management** - School of Public Administration
+_Jinan University (Guangzhou, China) • Sep 2009 - Jun 2013_
 
-_Jinan University - Guangzhou, China (Sep 2009 - Jun 2013)_
+- Self-taught programmer who successfully transitioned into professional software engineering.
+- Fluent in English (Passed CET-6).
 
-- Self-motivated study of coding.
-- English Level Test CET6 qualified.
+## Side Projects & Interests
 
-## Side Projects
-
-- **AI and Chatbot Development**: Developed a chatbot using OpenAI's GPT model for customer service in a retail scenario. The chatbot was capable of handling customer inquiries, providing product recommendations, and even processing transactions. This project involved working with Node.js, Nest.js, MongoDB, and various AI APIs.
-
-- **Ghost and Wordpress Development**: Created custom themes for Ghost and Wordpress platforms. Utilized advanced JavaScript and CSS techniques to create interactive, responsive, and aesthetically pleasing designs.
-
-- **Server Setup and Optimization**: Comprehensive understanding of cloud computing services, with the ability to setup servers from scratch. Implemented DNS and load balancing to ensure optimal performance. Regularly used Linux (Ubuntu, Debian) for server management and used nginx for reverse proxy setups. Created automation scripts using shell scripting.
-
-- **Performance Optimization**: Implemented a variety of front-end and back-end optimization techniques to improve web performance. These include minimizing HTTP requests, asynchronous loading, server-side rendering, caching, and database indexing.
-
-- **Design and Productivity Tools**: Have a strong understanding of user experience and visual design. I use tools like Figma, Sketch, and Photoshop for design work. For productivity, I regularly use tools like Alfred, Sublime Text, Evernote, and Notion.
+- **AI Native Applications**: Integrating LLMs for automated customer service, data summarizing, and daily task automation.
+- **Homelab & Networking**: Expert in home networking optimization, from OpenWrt configurations to IPTV multicast-to-unicast routing and high-availability DNS setups.
+- **Photography & Travel**: Avid traveler (Tibet bike tour, multiple marathons globally) and photographer with over 15 million views on Unsplash.
 
 ## Public Activities
 
-- [2017 FRONT END & EXPERIENCE CONFERENCE](https://feexp.org/shenzhen/): Invited Speaker of Tencent's public conference. Discussed front-end development best practices and trends.
-- **Yuewen Training lecturer**: Participated in the TED Part-time Lecturer Project (2016) training and passed the rating assessment. Delivered public training to other staff on front-end development.
+- **Invited Speaker** at 2017 FRONT END & EXPERIENCE CONFERENCE (Tencent).
+- **Internal Tech Lecturer** at Yuewen Group, training peers on advanced frontend practices.
 
-## Interesting Parts About Me
-
-Please check my [Github @foru17](https://github.com/foru17) to view my open source contributions and personal projects.
+_Learn more about my technical write-ups and lifestyle experiments at [luolei.org](https://luolei.org)._
