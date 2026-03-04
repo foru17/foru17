@@ -80,12 +80,6 @@ _Jinan University (Guangzhou, China) • Sep 2009 - Jun 2013_
 - Self-taught programmer who successfully transitioned into professional software engineering.
 - Fluent in English (Passed CET-6).
 
-## Side Projects & Interests
-
-- **AI Native Applications**: Integrating LLMs for automated customer service, data summarizing, and daily task automation.
-- **Homelab & Networking**: Expert in home networking optimization, from OpenWrt configurations to IPTV multicast-to-unicast routing and high-availability DNS setups.
-- **Photography & Travel**: Avid traveler (Tibet bike tour, multiple marathons globally) and photographer with over 15 million views on Unsplash.
-
 ## Public Activities
 
 - **Invited Speaker** at 2017 FRONT END & EXPERIENCE CONFERENCE (Tencent).
