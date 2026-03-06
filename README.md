@@ -17,6 +17,7 @@ I am a Full-Stack Developer deeply passionate about blending engineering, design
 - 📷 **Photographer**: My visual works have garnered **15M+ views** and 80K+ downloads on [Unsplash](https://unsplash.com/@luolei).
 - ✈️ **Globetrotter & Outdoor Enthusiast**: Traveled to 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵, PADI® Open Water Diver 🤿, and completed a 2,200km month-long bike trip to Tibet 🚲.
 - 🏃 **Marathoner**: Completed **10+** Marathons (Personal Best: ⏱️4h28m).
+- 🤝 **Open to Opportunities**: Currently working independently. Always happy to connect on full-time roles, consulting, or business collaborations — reach me at i@luolei.org or WeChat: luoleiorg.
 
 ## 🏆 Featured Projects
 
@@ -36,6 +37,7 @@ I am a Full-Stack Developer deeply passionate about blending engineering, design
 - 📸 [Instagram](https://instagram.com/luoleiorg)
 - 💬 [Telegram Channel](https://t.me/zuoluotvofficial)
 - 📧 [Email me](mailto:i@luolei.org)
+- 💬 WeChat: luoleiorg
 
 ## Work Experience
 

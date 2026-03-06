@@ -17,6 +17,7 @@
 - 📷 **摄影师**：视觉作品在 [Unsplash](https://unsplash.com/@luolei) 上获得 **1500万+** 浏览量和 8万+ 下载。
 - ✈️ **环球旅行者与户外爱好者**：游历过 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵，PADI® 开放水域潜水员 🤿，完成 2200 公里西藏骑行之旅 🚲。
 - 🏃 **马拉松跑者**：已完成 **10+** 场全程马拉松（个人最佳成绩：⏱️4小时28分）。
+- 🤝 **欢迎合作**：目前以独立开发为主，对合适的全职机会、技术咨询及商务合作保持开放态度，欢迎通过邮件 i@luolei.org 或微信 luoleiorg 联系。
 
 ## 🏆 精选项目
 
@@ -36,6 +37,7 @@
 - 📸 [Instagram](https://instagram.com/luoleiorg)
 - 💬 [Telegram 频道](https://t.me/zuoluotvofficial)
 - 📧 [发邮件给我](mailto:i@luolei.org)
+- 💬 微信：luoleiorg
 
 ## 工作经历
 

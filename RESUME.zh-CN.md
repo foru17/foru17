@@ -4,10 +4,13 @@
 | -------------------------------------------------- | ----------------------------------------- |
 | [Github](https://github.com/foru17)                | [邮箱: i@luolei.org](mailto:i@luolei.org) |
 | [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | [博客: luolei.org](https://luolei.org)    |
+|                                                    | 微信：luoleiorg                           |
 
-## 求职意向
+## 个人简介
 
 拥有超过 10 年工作经验的全栈开发工程师，曾就职于初创公司和一线科技企业。热衷于利用现代 Web 框架（React、Next.js、Vinext）和生成式 AI（Vibe Coding、Claude、GPT）大幅提升开发效率和用户体验。擅长将复杂的基础设施挑战转化为优雅、可维护且高度自动化的解决方案。
+
+目前以独立开发为主，同时对合适的全职机会、技术咨询及商务合作保持开放态度，欢迎随时联系探讨。
 
 ## 核心技能
 

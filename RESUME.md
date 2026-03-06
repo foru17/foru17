@@ -4,10 +4,13 @@
 | -------------------------------------------------- | ----------------------------------------- |
 | [Github](https://github.com/foru17)                | [Mail: i@luolei.org](mailto:i@luolei.org) |
 | [LinkedIn](https://www.linkedin.com/in/luoleiorg/) | [Blog: luolei.org](https://luolei.org)    |
+|                                                    | WeChat: luoleiorg                         |
 
-## Objective
+## Profile
 
 Highly driven Full-Stack Developer with over 10 years of experience across start-ups and top-tier tech companies. Deeply passionate about leveraging modern Web Frameworks (React, Next.js, Vinext) and generative AI (Vibe Coding, Claude, GPT) to dramatically boost development efficiency and user experience. Adept at transforming complex infrastructure challenges into elegant, maintainable, and highly automated solutions.
+
+Currently working independently, I remain open to the right full-time opportunities, consulting engagements, and strategic business collaborations — feel free to reach out.
 
 ## Key Skills
 
