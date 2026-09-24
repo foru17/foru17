@@ -18,22 +18,22 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout default branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.repository.default_branch }}
           persist-credentials: false
 
       - name: Checkout badges branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: badges
           path: badges-branch
           persist-credentials: false
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Update social badges
         id: update
@@ -44,7 +44,6 @@ jobs:
           BADGES_DIR: badges-branch
 
       - name: Commit and push badges
-        if: always()
         working-directory: badges-branch
         env:
           BADGES_SUMMARY: ${{ steps.update.outputs.summary }}

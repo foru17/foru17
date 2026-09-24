@@ -128,6 +128,7 @@ export async function main() {
   const dryRun = process.env.DRY_RUN === '1';
   const now = new Date();
   let previous = {};
+  let statsCorrupt = false;
   try {
     const content = await readExisting(join(directory, 'stats.json'));
     if (content) {
@@ -137,8 +138,10 @@ export async function main() {
       }
     }
   } catch (error) {
-    annotation('warning', `stats.json failed: ${error.message}`);
+    // Unreadable history must not reset fail_streak or bypass the anomaly guard.
+    annotation('error', `stats.json failed: ${error.message}; not rewriting it`);
     previous = {};
+    statsCorrupt = true;
   }
 
   // The shared promise (including rejection) caps YouTube at one request per run.
@@ -202,12 +205,13 @@ export async function main() {
     const before = previous[key];
     return !before || Object.keys(stats[key]).some(field => before[field] !== stats[key][field]);
   });
-  if (stateChanged) pending.set('stats.json', JSON.stringify(stats, null, 2) + '\n');
+  if (stateChanged && !statsCorrupt) pending.set('stats.json', JSON.stringify(stats, null, 2) + '\n');
 
-  let unhealthy = false;
+  let unhealthy = statsCorrupt;
   for (const metric of METRICS) {
     const state = stats[metric.key];
-    const expired = state.value !== null && now.getTime() - Date.parse(state.updated_at) > WEEK_MS;
+    // updated_at is the last value change, so staleness only matters while fetches are failing.
+    const expired = state.fail_streak > 0 && state.value !== null && now.getTime() - Date.parse(state.updated_at) > WEEK_MS;
     if (state.fail_streak >= 8 || expired) {
       unhealthy = true;
       annotation('error', `${metric.key}: fail_streak=${state.fail_streak}${expired ? '; updated_at is older than 7 days' : ''}`);
