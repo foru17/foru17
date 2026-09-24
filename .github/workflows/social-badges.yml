@@ -1,0 +1,69 @@
+name: social-badges
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-badges
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+
+      - name: Checkout badges branch
+        uses: actions/checkout@v4
+        with:
+          ref: badges
+          path: badges-branch
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update social badges
+        id: update
+        continue-on-error: true
+        run: node scripts/update-badges.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          BADGES_DIR: badges-branch
+
+      - name: Commit and push badges
+        if: always()
+        working-directory: badges-branch
+        env:
+          BADGES_SUMMARY: ${{ steps.update.outputs.summary }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [ -f x-followers.json ]; then git add -- x-followers.json; fi
+          if [ -f youtube-subscribers.json ]; then git add -- youtube-subscribers.json; fi
+          if [ -f youtube-views.json ]; then git add -- youtube-views.json; fi
+          if [ -f bilibili-followers.json ]; then git add -- bilibili-followers.json; fi
+          if [ -f stats.json ]; then git add -- stats.json; fi
+          if git diff --cached --quiet; then
+            echo 'No changes'
+            exit 0
+          fi
+          git commit -m "chore(badges): ${BADGES_SUMMARY}"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:badges
+
+      - name: Fail job when badge health check failed
+        if: steps.update.outcome == 'failure'
+        run: exit 1
