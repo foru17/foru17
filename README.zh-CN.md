@@ -31,8 +31,8 @@
 
 | 平台                                              | -                                                                                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Twitter: luoleiorg](https://x.com/luoleiorg)     | ![Twitter Followers](https://badge.is26.com/twitter)                                                                      |
-| [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)    | ![YouTube Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
+| [Twitter: luoleiorg](https://x.com/luoleiorg)     | ![Follow on X](https://img.shields.io/badge/Follow-%40luoleiorg-000000?logo=x&logoColor=white&style=flat-square)                                                                      |
+| [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)    | ![YouTube Subscribers](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCFCs9KNL6f2ZMKsoU7rjbkg%2Fabout&search=%22subscriberCountText%22%3A%22%28%5B%5Cd.%5D%2B%5BKM%5D%3F%29%20subscribers%22&replace=%241&label=YouTube%20Subscribers&color=red&logo=youtube&logoColor=white&style=flat-square) ![YouTube Views](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCFCs9KNL6f2ZMKsoU7rjbkg%2Fabout&search=%22viewCountText%22%3A%22%28%5B%5Cd%2C%5D%2B%29%20views%22&replace=%241&label=YouTube%20Views&color=red&logo=youtube&logoColor=white&style=flat-square) |
 | [Bilibili: 罗罗磊磊](https://zuoluo.tv/bilibili)  | ![哔哩哔哩](https://badge.is26.com/bilibili)                                                                              |
 
 - 🌐 [博客](https://luolei.org)
