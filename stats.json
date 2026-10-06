@@ -1,7 +1,7 @@
 {
   "x_followers": {
-    "value": 64497,
-    "updated_at": "2026-10-05T18:04:27.809Z",
+    "value": 64505,
+    "updated_at": "2026-10-06T00:08:41.281Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "fxtwitter"
@@ -9,20 +9,20 @@
   "youtube_subscribers": {
     "value": 21800,
     "updated_at": "2026-09-24T08:49:21.000Z",
-    "fail_streak": 48,
+    "fail_streak": 49,
     "last_error": "YOUTUBE_API_KEY is not set; skipped",
     "source": "seed"
   },
   "youtube_views": {
     "value": 1334704,
     "updated_at": "2026-09-24T08:49:21.000Z",
-    "fail_streak": 48,
+    "fail_streak": 49,
     "last_error": "YOUTUBE_API_KEY is not set; skipped",
     "source": "seed"
   },
   "bilibili_followers": {
-    "value": 13900,
-    "updated_at": "2026-10-05T18:04:27.809Z",
+    "value": 13899,
+    "updated_at": "2026-10-06T00:08:41.281Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
