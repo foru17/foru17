@@ -1,6 +1,6 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
 
-💻 AI-Native Full-Stack Developer / 🤖 AI Community Builder / 📷 Photographer / 🎬 Creator / 🏃 Marathoner
+💻 AI-Native Full-Stack Developer / 🚀 Founder of [ZOOL](https://zool.app) / 🤖 AI Community Builder / 📷 Photographer / 🎬 Creator / 🏃 Marathoner
 
 ## Resume
 
@@ -11,6 +11,7 @@ View my **[English Resume](./RESUME.md)** or **[中文简历](./RESUME.zh-CN.md)
 I am an AI-Native Full-Stack Developer who enjoys building at the intersection of engineering, design, and life experiments. I care about development efficiency, home lab networking, and personal digital infrastructure — and I like turning those interests into products, content, and open-source tools.
 
 - 🧪 **AI-Native Full-Stack Developer**: Currently in a full-time remote role, building AI agent systems and full-stack products end-to-end.
+- 🚀 **Founder of [ZOOL](https://zool.app)**: Running ZOOL LLC, an AI-native product team that designs, builds, and maintains its own products — [QuanCard](https://quancard.app) (iPhone, public beta), [AIME](https://aime.zool.app) (open-source macOS input method), and [Invoice Master](https://apps.shopify.com/invoice-master-app) (Shopify App Store).
 - ⌨️ **Senior Engineering Background**: 10+ years across top-tier tech companies, startups, and independent product building.
 - 🤖 **AI Community Participant & Builder**: Active participant and builder in the AI community.
 - 🌐 **Homelab & Personal Infra Nerd**: Deeply interested in networking, self-hosting, and building reliable personal systems.
@@ -23,6 +24,9 @@ I am an AI-Native Full-Stack Developer who enjoys building at the intersection o
 
 ## 🏆 Featured Projects
 
+- [**AIME**](https://github.com/zoolapp/aime): An open-source Chinese input method for macOS built on RIME — local first, optional AI. Signed, notarized, and auto-updated via Cloudflare Workers + R2. **200+ GitHub stars**.
+- [**ZOOL**](https://zool.app): My AI-native product team, home of QuanCard, AIME, and Invoice Master.
+- [**ZOOL Theme**](https://github.com/foru17/zool-theme): A calm, responsive server-monitoring theme for Komari and Nezha, in four languages.
 - [**Neko Master**](https://github.com/foru17/neko-master): An elegant, high-performance home network traffic analysis dashboard built with ClickHouse and AI-assisted development. **1K+ GitHub stars**.
 - [**Make X Great Again**](https://github.com/foru17/make-x-great-again): An open-source browser extension that makes X (Twitter) usable again — spam shield, KOL signal scoring, profile digest, and social graph hints, all running passively in your browser. **450+ GitHub stars**.
 - [**Raycast Plugins**](https://github.com/foru17): Productivity tools like `raycast-sink` and `raycast-hoarder` that streamline capture, bookmarking, and local workflows.
@@ -44,6 +48,7 @@ I am an AI-Native Full-Stack Developer who enjoys building at the intersection o
 
 ## Work Experience
 
+- **Ongoing**: Founder of [ZOOL](https://zool.app) (ZOOL LLC) — QuanCard, AIME, Invoice Master
 - **Apr 2026 - Present**: AI-Native Full-Stack Developer (Full-time, Remote)
 - **Apr 2024 - Mar 2026**: Independent Full-Stack Developer / Open Source Creator
 - **Jan 2021 - Mar 2024**: Senior Front-End Developer at Yuewen Group (772.HK), Shenzhen

@@ -10,26 +10,39 @@
 
 拥有 10+ 年工程经验的 AI 原生（AI-Native）全栈开发工程师，经历覆盖一线科技公司、初创团队和独立产品实践。我专注于 AI Agent 系统与全栈产品的端到端研发——从 LLM 工具调用管线、结构化输出服务，到 Web、移动端与基础设施——把复杂的工作流问题转化为优雅、可维护的产品。
 
-2026 年 4 月起全职远程工作，担任 AI 原生全栈开发工程师。同时是 AI 社区的活跃参与者与建设者。
+2026 年 4 月起全职远程工作，担任 AI 原生全栈开发工程师。同时是 [ZOOL](https://zool.app)（美国公司 ZOOL LLC）的创始人，负责这支 AI 原生产品团队的产品与研发，自有产品包括 **QuanCard**、**AIME（艾么输入法）** 和 **Invoice Master**。也是 AI 社区的活跃参与者与建设者。
 
 ## 核心技能
 
 - **AI 与 Agent 工程**：LLM Agent 系统（Claude API、Vercel AI SDK、Cloudflare Agents SDK）、工具调用与自定义 Agent Skills 开发、沙箱化代码执行环境、流式工具调用的对话式 AI 交互、结构化输出（Zod、Pydantic + Instructor）、提示词工程、AI 原生开发工作流
-- **前端开发**：React、Next.js、Vite、Vinext、TypeScript、JavaScript、TanStack Query、Vue.js、HTML/CSS、Hybrid App WebView、快应用
+- **前端开发**：React、Next.js、Astro、Vite、Vinext、TypeScript、JavaScript、TanStack Query、Vue.js、HTML/CSS、Hybrid App WebView、快应用
+- **原生与 Apple 平台**：基于 RIME 的 macOS 输入法开发、代码签名与公证、带签名的自动更新通道、TestFlight 公测分发、Shopify 嵌入式应用
 - **移动端**：React Native、Expo（expo-router、推送通知、Apple 登录）、跨平台 SDK 开发（React Native / Flutter / Web）、Supabase、Zustand、PostHog 与 Sentry 集成
 - **后端与数据**：Node.js、NestJS、Python（FastAPI、Pydantic、uv）、GraphQL、REST API、PostgreSQL、MongoDB、Redis、ClickHouse、Prisma、Drizzle ORM、Shopify 应用开发
-- **DevOps 与基础设施**：Docker、Ansible、Dokploy、Cloudflare（Workers、KV、Durable Objects、Pages）、Nginx、Linux、CI/CD、Shell 脚本、网络（家庭实验室路由、DNS）
+- **DevOps 与基础设施**：Docker、Ansible、Dokploy、Cloudflare（Workers、KV、R2、Durable Objects、Pages）、Nginx、Linux、CI/CD、Shell 脚本、网络（家庭实验室路由、DNS）
 - **自动化与生产力**：企业平台机器人（飞书开放平台）、定时数据管线、Raycast 插件开发、SaaS 产品交付
 - **产品与设计**：UI/UX 直觉、Figma、Sketch、Photoshop
 
 ## 开源与精选项目
 
+- [**AIME（艾么输入法）**](https://github.com/zoolapp/aime)（[aime.zool.app](https://aime.zool.app)）：基于 RIME 的开源 macOS 中文输入法，本地优先、AI 可选。发布包经过签名与公证，自动更新通道由 Cloudflare Workers + R2 提供。**200+ GitHub Stars**，MIT 协议。
+- [**ZOOL Theme**](https://github.com/foru17/zool-theme)：为 Komari 与 Nezha 打造的服务器监控面板主题，安静、响应式，支持四种语言，并附带供 AI Agent 使用的安装 Skill。MIT 协议。
 - [**Neko Master**](https://github.com/foru17/neko-master)：设计并打造优雅的开源家庭网络流量分析仪表板，集成 ClickHouse 存储，并凭借产品完成度与高效 AI 辅助迭代获得 **1000+ GitHub Stars**。
 - [**Make X Great Again**](https://github.com/foru17/make-x-great-again)：使用 TypeScript 开发的开源浏览器扩展，通过垃圾内容屏蔽、KOL 信号评分、主页摘要与社交关系提示改善 X（Twitter）使用体验，作为公益工具发布并获得 **450+ GitHub Stars**。
 - [**Raycast 插件**](https://github.com/foru17)：开发 `raycast-sink`、`raycast-hoarder` 等生产力扩展，提升信息采集、URL 管理与书签整理效率。
 - [**luoleiorg-x**](https://github.com/foru17/luoleiorg-x)：基于 Vinext 与 Cloudflare Workers 重建个人内容发布系统，集成 AI 驱动的摘要、搜索与 SEO 工具。
 
 ## 工作经历
+
+### ZOOL LLC - 创始人 · 产品与研发
+
+_进行中 · [zool.app](https://zool.app)_
+
+- 创立美国公司 ZOOL，一支自主设计、开发并长期维护自有产品的 AI 原生团队，在探索、设计与开发全流程中使用 AI。
+- [**QuanCard**](https://quancard.app)：私密的 iPhone 卡片与账户整理应用，目前通过 TestFlight 公开测试。
+- [**AIME（艾么输入法）**](https://aime.zool.app)：基于 RIME 的开源 macOS 中文输入法，本地优先、AI 可选；发布包经签名与公证，通过基于 Cloudflare Workers + R2 自建的更新服务分发。
+- [**Invoice Master**](https://apps.shopify.com/invoice-master-app)：在 Shopify 内创建和管理发票、装箱单与订单文档的应用，支持 Liquid/HTML 自定义模板、批量生成与自动邮件，已上架 Shopify App Store。
+- 使用 Astro + Cloudflare Pages 搭建并维护中 / 英 / 日三语公司官网 [zool.app](https://zool.app)。
 
 ### AI 原生全栈开发工程师（全职远程）
 
@@ -47,7 +60,7 @@ _2026年4月 - 至今_
 _2024年4月 - 2026年3月_
 
 - 使用 React、NestJS、PostgreSQL、Prisma 和 GraphQL 架构并交付面向全球用户的 Web 应用，其中包括一款面向国际商家的成熟 Shopify SaaS 商业应用。
-- 交付了一款已上架 Shopify 官方应用商店的生产级应用，体现了从产品实现、工程落地到正式发布的完整能力。
+- 交付了已上架 Shopify 官方应用商店的生产级应用 [Invoice Master](https://apps.shopify.com/invoice-master-app)，体现了从产品实现、工程落地到正式发布的完整能力。
 - 采用 AI 优先（AI-first）的开发工作流，快速完成复杂功能的原型、迭代与落地，同时保持代码库的可维护性。
 - 持续构建面向家庭实验室（homelab）与开发者社区的开源网络和生产力工具，包括 `Neko Master` 与多个 Raycast 插件。
 

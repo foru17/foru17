@@ -10,26 +10,39 @@
 
 AI-Native Full-Stack Developer with 10+ years of engineering experience across top-tier tech companies, start-ups, and independent product building. I build AI agent systems and full-stack products end-to-end — from LLM tool-use pipelines and structured-output services to web, mobile, and infrastructure — turning complex workflow problems into elegant, maintainable products.
 
-Since April 2026 I have been working full-time in a remote role as an AI-Native Full-Stack Developer. I am also an active participant and builder in the AI community.
+Since April 2026 I have been working full-time in a remote role as an AI-Native Full-Stack Developer. I am also the founder of [ZOOL](https://zool.app), a US-based AI-native product team (ZOOL LLC) where I lead product and engineering for our own products — **QuanCard**, **AIME**, and **Invoice Master**. I am an active participant and builder in the AI community.
 
 ## Key Skills
 
 - **AI & Agent Engineering**: LLM agent systems (Claude API, Vercel AI SDK, Cloudflare Agents SDK), tool use & custom agent skills authoring, sandboxed code-execution environments, conversational AI interfaces with streaming tool calls, structured output (Zod, Pydantic + Instructor), prompt engineering, AI-native development workflows
-- **Front-End**: React, Next.js, Vite, Vinext, TypeScript, JavaScript, TanStack Query, Vue.js, HTML/CSS, Hybrid App WebView, QuickApp
+- **Front-End**: React, Next.js, Astro, Vite, Vinext, TypeScript, JavaScript, TanStack Query, Vue.js, HTML/CSS, Hybrid App WebView, QuickApp
+- **Native & Apple Platforms**: macOS input method development on RIME, code signing & notarization, signed auto-update channels, TestFlight beta distribution, Shopify embedded apps
 - **Mobile**: React Native, Expo (expo-router, push notifications, Apple Sign-In), cross-platform SDK development (React Native / Flutter / Web), Supabase, Zustand, PostHog & Sentry integration
 - **Back-End & Data**: Node.js, NestJS, Python (FastAPI, Pydantic, uv), GraphQL, REST APIs, PostgreSQL, MongoDB, Redis, ClickHouse, Prisma, Drizzle ORM, Shopify app development
-- **DevOps & Infrastructure**: Docker, Ansible, Dokploy, Cloudflare (Workers, KV, Durable Objects, Pages), Nginx, Linux, CI/CD, Shell scripting, Networking (homelab routing, DNS)
+- **DevOps & Infrastructure**: Docker, Ansible, Dokploy, Cloudflare (Workers, KV, R2, Durable Objects, Pages), Nginx, Linux, CI/CD, Shell scripting, Networking (homelab routing, DNS)
 - **Automation & Productivity**: Enterprise platform bots (Lark/Feishu Open Platform), scheduled data pipelines, Raycast extension development, SaaS product delivery
 - **Product & Design**: UI/UX intuition, Figma, Sketch, Photoshop
 
 ## Open Source & Featured Projects
 
+- [**AIME**](https://github.com/zoolapp/aime) ([aime.zool.app](https://aime.zool.app)): An open-source Chinese input method for macOS built on RIME — local first, with optional AI. Signed and notarized releases with an auto-update channel served from Cloudflare Workers + R2. **200+ GitHub stars**, MIT licensed.
+- [**ZOOL Theme**](https://github.com/foru17/zool-theme): A calm, responsive server-monitoring theme for Komari and Nezha, available in four languages and shipped with an AI-agent installation skill. MIT licensed.
 - [**Neko Master**](https://github.com/foru17/neko-master): Designed and built an elegant open-source home network traffic analysis dashboard with ClickHouse integration. Reached **1K+ GitHub stars** through strong product quality and fast AI-assisted iteration.
 - [**Make X Great Again**](https://github.com/foru17/make-x-great-again): Built an open-source TypeScript browser extension that improves the X (Twitter) experience with spam shielding, KOL signal scoring, profile digests, and social graph hints — shipped as a public-good tool with **450+ GitHub stars**.
 - [**Raycast Plugins**](https://github.com/foru17): Developed productivity extensions such as `raycast-sink` and `raycast-hoarder` to streamline capture, URL management, and bookmarking workflows.
 - [**luoleiorg-x**](https://github.com/foru17/luoleiorg-x): Rebuilt my personal publishing stack with Vinext and Cloudflare Workers, integrating AI-powered summaries, search, and SEO tooling.
 
 ## Experience
+
+### ZOOL LLC - Founder · Product & Engineering
+
+_Ongoing · [zool.app](https://zool.app)_
+
+- Founded ZOOL, a US company and AI-native product team that designs, builds, and maintains its own products, using AI throughout exploration, design, and development.
+- [**QuanCard**](https://quancard.app): A private iPhone app for organizing your cards and accounts, currently in public beta on TestFlight.
+- [**AIME**](https://aime.zool.app): An open-source macOS Chinese input method built on RIME — local first, optional AI; signed, notarized releases distributed through a self-built update service on Cloudflare Workers + R2.
+- [**Invoice Master**](https://apps.shopify.com/invoice-master-app): A Shopify app for creating and managing invoices, packing slips, and order documents, with customizable Liquid/HTML templates, bulk generation, and automated emails; listed on the Shopify App Store.
+- Built and run the trilingual (English / Chinese / Japanese) company site [zool.app](https://zool.app) with Astro on Cloudflare Pages.
 
 ### AI-Native Full-Stack Developer (Full-time, Remote)
 
@@ -47,7 +60,7 @@ _Apr 2026 - Present_
 _Apr 2024 - Mar 2026_
 
 - Architect and ship global-facing web applications using React, NestJS, PostgreSQL, Prisma, and GraphQL, including a mature commercial Shopify SaaS app for international merchants.
-- Delivered a production-grade Shopify application now listed on the official Shopify App Store, demonstrating end-to-end product, engineering, and launch capability at a high bar.
+- Delivered [Invoice Master](https://apps.shopify.com/invoice-master-app), a production-grade Shopify application now listed on the official Shopify App Store, demonstrating end-to-end product, engineering, and launch capability at a high bar.
 - Apply an AI-first development workflow to prototype and iterate quickly, compressing delivery cycles for complex features while keeping codebases maintainable.
 - Build open-source networking and productivity tools adopted by homelab and developer communities, including `Neko Master` and multiple Raycast extensions.
 

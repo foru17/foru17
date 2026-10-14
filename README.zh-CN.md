@@ -1,6 +1,6 @@
 # 你好 👋 ![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
 
-💻 AI 原生全栈开发工程师 / 🤖 AI 社区建设者 / 📷 摄影师 / 🎬 YouTuber / 🏃 马拉松跑者
+💻 AI 原生全栈开发工程师 / 🚀 [ZOOL](https://zool.app) 创始人 / 🤖 AI 社区建设者 / 📷 摄影师 / 🎬 YouTuber / 🏃 马拉松跑者
 
 ## 简历
 
@@ -11,6 +11,7 @@
 我是一名 AI 原生（AI-Native）全栈开发工程师，热衷于将工程、设计与生活实验相融合。专注于高效能开发、家庭网络实验室以及个人数字基础设施搭建。
 
 - 🧪 **AI 原生全栈开发工程师**：目前全职远程工作，从事 AI Agent 系统与全栈产品的端到端研发。
+- 🚀 **[ZOOL](https://zool.app) 创始人**：创办美国公司 ZOOL LLC，一支自主设计、开发并长期维护自有产品的 AI 原生团队——[QuanCard](https://quancard.app)（iPhone，公开测试中）、[AIME 艾么输入法](https://aime.zool.app)（开源 macOS 输入法）与 [Invoice Master](https://apps.shopify.com/invoice-master-app)（已上架 Shopify App Store）。
 - ⌨️ **资深工程背景**：10+ 年经验，覆盖一线科技公司、创业团队与独立产品实践。
 - 🤖 **AI 社区参与者与建设者**：AI 社区的活跃参与者与建设者。
 - 🐾 **铲屎官**：在深圳与 2 只猫咪 🐈 和 1 只柴犬 🐕 一起生活。
@@ -22,6 +23,9 @@
 
 ## 🏆 精选项目
 
+- [**AIME（艾么输入法）**](https://github.com/zoolapp/aime)：基于 RIME 的开源 macOS 中文输入法，本地优先、AI 可选，签名公证并通过 Cloudflare Workers + R2 自动更新。（200+ Stars）
+- [**ZOOL**](https://zool.app)：我的 AI 原生产品团队，旗下有 QuanCard、AIME 与 Invoice Master。
+- [**ZOOL Theme**](https://github.com/foru17/zool-theme)：为 Komari 与 Nezha 打造的服务器监控面板主题，安静、响应式，支持四种语言。
 - [**Neko Master**](https://github.com/foru17/neko-master)：一款优雅、高性能的家庭网络流量分析仪表板，采用 Vibe Coding 方式构建。（1000+ Stars）
 - [**Make X Great Again**](https://github.com/foru17/make-x-great-again)：一款让 X（Twitter）重新好用的开源浏览器扩展——垃圾内容屏蔽、KOL 信号评分、主页摘要与社交关系提示，全部在浏览器内静默运行。（450+ Stars）
 - [**Raycast 插件**](https://github.com/foru17)：开发了 `raycast-sink` 和 `raycast-hoarder` 等生产力工具，优化本地工作流程。
@@ -43,6 +47,7 @@
 
 ## 工作经历
 
+- **进行中**：[ZOOL](https://zool.app)（ZOOL LLC）创始人——QuanCard、AIME、Invoice Master
 - **2026年4月 - 至今**：AI 原生全栈开发工程师（全职远程）
 - **2024年4月 - 2026年3月**：全栈独立开发者 / 开源创作者
 - **2021年1月 - 2024年3月**：阅文集团高级前端开发工程师，深圳
