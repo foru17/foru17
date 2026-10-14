@@ -89,11 +89,7 @@ async function fetchX() {
   }
 }
 
-async function fetchYouTube() {
-  const key = process.env.YOUTUBE_API_KEY;
-  if (!key) throw new Error('YOUTUBE_API_KEY is not set; skipped');
-  return request(`https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCFCs9KNL6f2ZMKsoU7rjbkg&key=${encodeURIComponent(key)}`, { youtube: true });
-}
+const YOUTUBE_CHANNEL_ID = 'UCFCs9KNL6f2ZMKsoU7rjbkg';
 
 function youtubeValue(json, field) {
   const value = json?.items?.[0]?.statistics?.[field];
@@ -101,6 +97,61 @@ function youtubeValue(json, field) {
     throw new Error(`HTTP 200: missing or invalid ${field}`);
   }
   return positiveInteger(Number(value));
+}
+
+// Parses YouTube's English short counts such as "21.8K subscribers" or "1,336,063 views".
+export function parseYouTubeCount(text, unit) {
+  const match = new RegExp(`^([\\d.,]+)\\s*([KMB])?\\s+${unit}s?$`, 'i').exec(text.trim());
+  if (!match) throw new Error(`unrecognized ${unit} text`);
+  const multiplier = { K: 1e3, M: 1e6, B: 1e9 }[match[2]?.toUpperCase()] ?? 1;
+  return positiveInteger(Math.round(Number(match[1].replaceAll(',', '')) * multiplier));
+}
+
+export function parseYouTubeAboutPage(html) {
+  if (!html.includes(`"externalId":"${YOUTUBE_CHANNEL_ID}"`)) throw new Error('channel id not found');
+  const field = (name, unit) => {
+    // The about panel is the only place these fields are plain strings; other channels and videos use objects.
+    const matches = [...html.matchAll(new RegExp(`"${name}":"([^"]+)"`, 'g'))];
+    if (matches.length !== 1) throw new Error(`expected one ${name}, found ${matches.length}`);
+    return parseYouTubeCount(matches[0][1], unit);
+  };
+  return { subscriberCount: field('subscriberCountText', 'subscriber'), viewCount: field('viewCountText', 'view') };
+}
+
+async function fetchYouTubeApi(key) {
+  const json = await request(`https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${YOUTUBE_CHANNEL_ID}&key=${encodeURIComponent(key)}`, { youtube: true });
+  return { subscriberCount: youtubeValue(json, 'subscriberCount'), viewCount: youtubeValue(json, 'viewCount'), source: 'youtube' };
+}
+
+async function fetchYouTubePage() {
+  const response = await fetch(`https://www.youtube.com/channel/${YOUTUBE_CHANNEL_ID}/about?hl=en&gl=US`, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
+      'Accept-Language': 'en-US,en;q=0.9',
+      Cookie: 'CONSENT=YES+1; SOCS=CAI',
+    },
+    signal: AbortSignal.timeout(15_000),
+  });
+  if (response.status !== 200) throw new Error(`HTTP ${response.status}`);
+  return { ...parseYouTubeAboutPage(await response.text()), source: 'youtube-page' };
+}
+
+// The Data API is preferred when a key is configured; the public channel page is the keyless fallback.
+async function fetchYouTube() {
+  const key = process.env.YOUTUBE_API_KEY;
+  let apiError = 'YOUTUBE_API_KEY is not set';
+  if (key) {
+    try {
+      return await fetchYouTubeApi(key);
+    } catch (error) {
+      apiError = error.message;
+    }
+  }
+  try {
+    return await fetchYouTubePage();
+  } catch (error) {
+    throw new Error(`api: ${apiError}; page: ${error.message}`);
+  }
 }
 
 async function fetchBilibili() {
@@ -144,13 +195,19 @@ export async function main() {
     statsCorrupt = true;
   }
 
-  // The shared promise (including rejection) caps YouTube at one request per run.
+  // The shared promise (including rejection) caps YouTube at one API and one page request per run.
   let youtubePromise;
   const getYouTube = () => (youtubePromise ??= fetchYouTube());
   const providers = {
     x_followers: fetchX,
-    youtube_subscribers: async () => ({ value: youtubeValue(await getYouTube(), 'subscriberCount'), source: 'youtube' }),
-    youtube_views: async () => ({ value: youtubeValue(await getYouTube(), 'viewCount'), source: 'youtube' }),
+    youtube_subscribers: async () => {
+      const { subscriberCount, source } = await getYouTube();
+      return { value: subscriberCount, source };
+    },
+    youtube_views: async () => {
+      const { viewCount, source } = await getYouTube();
+      return { value: viewCount, source };
+    },
     bilibili_followers: fetchBilibili,
   };
   const stats = {};
