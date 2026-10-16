@@ -1,10 +1,10 @@
 {
   "x_followers": {
-    "value": 64717,
-    "updated_at": "2026-10-16T06:05:07.047Z",
+    "value": 64731,
+    "updated_at": "2026-10-16T12:04:50.411Z",
     "fail_streak": 0,
     "last_error": null,
-    "source": "fxtwitter"
+    "source": "vxtwitter"
   },
   "youtube_subscribers": {
     "value": 21800,
