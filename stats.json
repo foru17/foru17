@@ -21,8 +21,8 @@
     "source": "youtube-page"
   },
   "bilibili_followers": {
-    "value": 13900,
-    "updated_at": "2026-10-17T12:04:07.124Z",
+    "value": 13899,
+    "updated_at": "2026-10-18T06:04:36.214Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
