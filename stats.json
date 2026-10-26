@@ -14,15 +14,15 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1336702,
-    "updated_at": "2026-10-25T18:03:41.063Z",
+    "value": 1336762,
+    "updated_at": "2026-10-26T18:05:26.301Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
   },
   "bilibili_followers": {
-    "value": 13901,
-    "updated_at": "2026-10-26T13:12:03.085Z",
+    "value": 13903,
+    "updated_at": "2026-10-26T18:05:26.301Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
