@@ -1,7 +1,7 @@
 {
   "x_followers": {
-    "value": 64898,
-    "updated_at": "2026-10-26T00:08:17.811Z",
+    "value": 64903,
+    "updated_at": "2026-10-26T06:06:38.757Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "fxtwitter"
@@ -21,8 +21,8 @@
     "source": "youtube-page"
   },
   "bilibili_followers": {
-    "value": 13899,
-    "updated_at": "2026-10-23T18:04:02.723Z",
+    "value": 13898,
+    "updated_at": "2026-10-26T06:06:38.757Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
