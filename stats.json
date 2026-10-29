@@ -1,10 +1,10 @@
 {
   "x_followers": {
-    "value": 64858,
-    "updated_at": "2026-10-29T00:06:21.811Z",
+    "value": 64955,
+    "updated_at": "2026-10-29T06:04:01.584Z",
     "fail_streak": 0,
     "last_error": null,
-    "source": "vxtwitter"
+    "source": "fxtwitter"
   },
   "youtube_subscribers": {
     "value": 21800,
@@ -14,8 +14,8 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1337815,
-    "updated_at": "2026-10-29T00:06:21.811Z",
+    "value": 1337867,
+    "updated_at": "2026-10-29T06:04:01.584Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
