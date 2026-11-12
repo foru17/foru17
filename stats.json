@@ -1,7 +1,7 @@
 {
   "x_followers": {
-    "value": 65165,
-    "updated_at": "2026-11-12T00:06:09.912Z",
+    "value": 65167,
+    "updated_at": "2026-11-12T06:04:01.147Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "fxtwitter"
@@ -14,8 +14,8 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1338647,
-    "updated_at": "2026-11-12T00:06:09.912Z",
+    "value": 1338673,
+    "updated_at": "2026-11-12T06:04:01.147Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
