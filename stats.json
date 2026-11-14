@@ -2,7 +2,7 @@
   "x_followers": {
     "value": 65178,
     "updated_at": "2026-11-13T18:02:56.977Z",
-    "fail_streak": 2,
+    "fail_streak": 3,
     "last_error": "primary: HTTP 404; fallback: HTTP 500",
     "source": "fxtwitter"
   },
@@ -14,15 +14,15 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1338730,
-    "updated_at": "2026-11-13T18:02:56.977Z",
+    "value": 1338749,
+    "updated_at": "2026-11-14T12:03:16.431Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
   },
   "bilibili_followers": {
-    "value": 13901,
-    "updated_at": "2026-11-14T06:03:31.117Z",
+    "value": 13900,
+    "updated_at": "2026-11-14T12:03:16.431Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
