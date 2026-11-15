@@ -1,9 +1,9 @@
 {
   "x_followers": {
-    "value": 65184,
-    "updated_at": "2026-11-15T00:06:08.198Z",
-    "fail_streak": 2,
-    "last_error": "primary: HTTP 404; fallback: HTTP 500",
+    "value": 65190,
+    "updated_at": "2026-11-15T18:02:07.305Z",
+    "fail_streak": 0,
+    "last_error": null,
     "source": "fxtwitter"
   },
   "youtube_subscribers": {
@@ -14,8 +14,8 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1338801,
-    "updated_at": "2026-11-15T06:03:38.378Z",
+    "value": 1338836,
+    "updated_at": "2026-11-15T18:02:07.305Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
