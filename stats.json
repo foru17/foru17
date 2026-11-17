@@ -1,7 +1,7 @@
 {
   "x_followers": {
-    "value": 65191,
-    "updated_at": "2026-11-17T12:03:36.706Z",
+    "value": 65189,
+    "updated_at": "2026-11-17T18:03:21.024Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "fxtwitter"
@@ -14,15 +14,15 @@
     "source": "youtube-page"
   },
   "youtube_views": {
-    "value": 1338950,
-    "updated_at": "2026-11-17T06:03:55.994Z",
+    "value": 1338980,
+    "updated_at": "2026-11-17T18:03:21.024Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "youtube-page"
   },
   "bilibili_followers": {
-    "value": 13898,
-    "updated_at": "2026-11-17T12:03:36.706Z",
+    "value": 13897,
+    "updated_at": "2026-11-17T18:03:21.024Z",
     "fail_streak": 0,
     "last_error": null,
     "source": "bilibili"
