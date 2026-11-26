@@ -2,8 +2,8 @@
   "x_followers": {
     "value": 65138,
     "updated_at": "2026-11-25T06:03:59.009Z",
-    "fail_streak": 3,
-    "last_error": "primary: HTTP 404; fallback: HTTP 500",
+    "fail_streak": 0,
+    "last_error": null,
     "source": "fxtwitter"
   },
   "youtube_subscribers": {
